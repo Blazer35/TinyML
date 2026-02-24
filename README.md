@@ -1,8 +1,3 @@
-Here you go — clean, professional, and ready to paste directly into your `README.md`.
-
-You can replace the placeholder numbers with your actual metrics.
-
----
 
 # 🪄 TinyML Magic Wand
 
@@ -176,15 +171,6 @@ magic-wand-tinyml/
 
 ---
 
-## 📸 Demo
-
-Add a demo GIF or video here:
-
-```
-![Magic Wand Demo](demo.gif)
-```
-
----
 
 ## 🔮 Future Improvements
 
@@ -209,10 +195,3 @@ It highlights skills in:
 * Real-Time Systems
 * TinyML Deployment
 
----
-
-If you'd like, I can also create:
-
-* A shorter, recruiter-focused version
-* A more research-style technical version
-* A version optimized specifically for internships or AI roles
